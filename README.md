@@ -8,17 +8,17 @@ This project is a starting point for a Flutter application.
 
 <b>Home page :</b>
 <br><br>
-<img width="360" alt="1" src="https://github.com/user-attachments/assets/e90a92c7-9e62-4043-9303-4caaed133721>
+<img width="360" alt="1" src="https://github.com/user-attachments/assets/e90a92c7-9e62-4043-9303-4caaed133721">
 <br><br>
-Search Page : 
+<b>Search Page : </b>
 <br><br>
 <img width="367" alt="2" src="https://github.com/user-attachments/assets/4cb0fb31-7887-4870-abf7-db9b860692c6">
 <br><br>
-Data Page :
+<b>Data Page :</b>
 <br><br>
 <img width="365" alt="3" src="https://github.com/user-attachments/assets/79d4b3ba-41c9-491c-bd7c-060bdc55a449">
 <br><br>
-Profile Page :
+<b>Profile Page :</b>
 <br><br>
 <img width="370" alt="4" src="https://github.com/user-attachments/assets/3b5f68aa-d229-41ed-807f-f9eb2e23cd36">
 
